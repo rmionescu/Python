@@ -1,0 +1,18 @@
+{
+    "Facebook": {
+        "email": "razvan@gmail.com",
+        "password": "gAAAAABh0ytG0gNGrb3X9htL6YbWV1oujuOxsiWVb40AgUy_xYkYTVhJHcYBXAwHsOg4diKPZUMpjtoGtkgDEN4STJ5gS8hMOQ=="
+    },
+    "Amazon": {
+        "email": "razvan@gmail.com",
+        "password": "gAAAAABh0ypej7DZ3-hstUE1qQ2vYetZrPrqD1HK5ROVKCij4PFsMAtcoF4ZSRXZbd_vOI0gXhgaLHzWlbRTXYzVDFH9WZ_GTw=="
+    },
+    "Teams": {
+        "email": "razvan.ionescu@gmail.com",
+        "password": "gAAAAABh0yqHXScsGEJylW5aImTsPnu9cvF4tUFLSsUuhp_1ornxnVue9iif3dLmPLsqoLxSgqNSjV5K8JD31lzfdQUPbNtR3w=="
+    },
+    "Yahoo": {
+        "email": "razvan@yahoo.com",
+        "password": "gAAAAABh0ysow3jIJy-SaR9WznlZOe7v_PgCfX6QatQ5DtnhpHt181fGmNiG4RrXSYuyEMN8XOHGauFfCJUKr31G1yg01xOx3A=="
+    }
+}
