@@ -9,6 +9,7 @@ weather-api/
 ├── tests/             # Unit tests
 └── README.md          # Documentation
 
+## Install
 Create new project **weather-api**
 Create new package **app**
 1. Install FastAPI and Uvicorn
